@@ -1,0 +1,5 @@
+Amount: 75
+Speed: max
+Repeat: off
+Display width: 800
+Display height: 600
